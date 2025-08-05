@@ -26,8 +26,8 @@ The source code can be accessed from master branch.
 
 ## Pages
 1. Home (index.php)
-Description: Displays the main information about the website and the recipes.
-Features: Introductory content about Main Course & Dessert Recipes.
+- Description: Displays the main information about the website and the recipes.
+- Features: Introductory content about Main Course & Dessert Recipes.
 2. Write a Recipe
 Description: Writes the recipes including name, ingredients, images, description, instructions.
 Features: Customer reviews and testimonials acting as a portfolio.
