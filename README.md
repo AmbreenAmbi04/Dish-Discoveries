@@ -72,7 +72,7 @@ Place the project files in the htdocs directory of your XAMPP installation.
 Open your web browser and go to http://localhost/dish-discoveries to access the website.
 
 Contribution
-@AmbreenAmbi04 : Recipe Writing Page, Posting Page, Home page, Main course page, Dessert page.
+- @AmbreenAmbi04 : Recipe Writing Page, Posting Page, Home page, Main course page, Dessert page.
 
 Contact
-For any inquiries or feedback, please contact us.
+- For any inquiries or feedback, please contact us.
