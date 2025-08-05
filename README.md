@@ -29,23 +29,23 @@ The source code can be accessed from master branch.
 - Description: Displays the main information about the website and the recipes.
 - Features: Introductory content about Main Course & Dessert Recipes.
 2. Write a Recipe
-Description: Writes the recipes including name, ingredients, images, description, instructions.
-Features: Customer reviews and testimonials acting as a portfolio.
+- Description: Writes the recipes including name, ingredients, images, description, instructions.
+- Features: Customer reviews and testimonials acting as a portfolio.
 3. Main Course 
-Description: Highlights the main course recipes posted by users.
-Features: Showcases the main course recipes with their ingredients and instructions.
+- Description: Highlights the main course recipes posted by users.
+- Features: Showcases the main course recipes with their ingredients and instructions.
 4. About Us
-Description: Provides the history and backstory of Dish Discoveries.
-Features: Information about the platform's background and contact details.
+- Description: Provides the history and backstory of Dish Discoveries.
+- Features: Information about the platform's background and contact details.
 5. Dessert 
-Description: Highlights the dessert recipes posted by users.
-Features: Showcases the dessert recipes with their ingredients and instructions.
+- Description: Highlights the dessert recipes posted by users.
+- Features: Showcases the dessert recipes with their ingredients and instructions.
 6. Your Recipes
-Description: Displays the recipes you post, can read, edit or delete them.
-Features: Performs three of the CRUD operations, edit, delete, read.
+- Description: Displays the recipes you post, can read, edit or delete them.
+- Features: Performs three of the CRUD operations, edit, delete, read.
 7. Login & Logout
-   Description: If a new user comes, directs to sign up pages, otherwise can login or logout using the buttons.
-   Features: Registers and logs in and out a user.
+- Description: If a new user comes, directs to sign up pages, otherwise can login or logout using the buttons.
+- Features: Registers and logs in and out a user.
 
 ## Installation
 
